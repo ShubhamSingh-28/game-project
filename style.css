@@ -17,13 +17,14 @@ body {
 
 .game {
     height: 30vh;
-    width: 80vw; /* Adjusted width for responsiveness */
-    display: flex;
+    width: 30vw; /* Adjusted width for responsiveness */
+    display: grid; /* Updated display property to grid */
+    grid-template-columns: repeat(3, 1fr); /* Set grid columns to repeat 3 times */
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
     gap: 2%; /* Adjusted gap for responsiveness */
 }
+
 
 .box {
     height: 80px; /* Adjusted height for responsiveness */
