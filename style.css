@@ -68,7 +68,7 @@ body {
         width: 90vw; /* Adjusted width for smaller screens */
     }
 
-    box {
+   .box {
         height: 60px; /* Adjusted height for smaller screens */
         width: 40vw; /* Adjusted width for smaller screens */
         font-size: 8vw; /* Adjusted font size for smaller screens */
