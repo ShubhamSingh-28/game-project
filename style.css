@@ -27,7 +27,7 @@ body {
 
 
 .box {
-    height: 80px; /* Adjusted height for responsiveness */
+    height: 18vw; /* Adjusted height for responsiveness */
     width: 18vw; /* Adjusted width for responsiveness */
     font-size: 4vw; /* Adjusted font size for responsiveness */
     background-color: rgb(199, 240, 124);
