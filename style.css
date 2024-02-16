@@ -69,8 +69,8 @@ body {
     }
 
     .box {
-        height: 60px; /* Adjusted height for smaller screens */
-        width: 40vw; /* Adjusted width for smaller screens */
+        height: 30vh; /* Adjusted height for smaller screens */
+        width: 30vw; /* Adjusted width for smaller screens */
         font-size: 8vw; /* Adjusted font size for smaller screens */
     }
 
